@@ -1,8 +1,8 @@
-## Monstar Brand
+## Monster Brand
 
 
 ### Install
 ```
-npm install oneyear --save 
+npm install monster-brand --save 
 ```
 
