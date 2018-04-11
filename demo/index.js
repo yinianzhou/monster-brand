@@ -5,7 +5,7 @@ class Demo extends React.Component{
     render(){
         return(
             <div>
-                <Button>112</Button>
+                <Button type="primary">呵呵</Button>
             </div>
         )
     }
